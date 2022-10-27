@@ -202,3 +202,12 @@ header .container .asideImg{
     text-align: center;
     padding-top: 410px;
 }
+
+footer .container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+}
